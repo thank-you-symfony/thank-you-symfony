@@ -3,7 +3,7 @@ Dear Symfony,
 Since its initial releases, Symfony is innovating the PHP universe and making
 the web development efficient, quality and fun.
 
-We want to thank [Fabien Potencier](@fabpot), the
+We want to thank [Fabien Potencier](https://github.com/fabpot), the
 [Symfony core team](https://symfony.com/doc/current/contributing/code/core_team.html),
 [contributors](https://symfony.com/contributors), and all the people involved in
 making the Symfony framework and its ecosystem a better place for everyone.
