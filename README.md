@@ -18,5 +18,5 @@ Signed,
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
-[Thank You PHP](https://github.com/thank-you-laravel/thank-you-laravel),
-and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
+[Thank You PHP](https://github.com/thank-you-php/thank-you-php), and
+[Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
