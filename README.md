@@ -12,7 +12,7 @@ Thank you so much for all that you have done and do.
 
 Signed,
 
-* Peter Kokot, PHP development team member
+* Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
 * Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 
 Inspired by the
