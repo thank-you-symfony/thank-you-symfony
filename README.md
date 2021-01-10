@@ -14,6 +14,7 @@ Signed,
 
 * Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
 * Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
+* Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
