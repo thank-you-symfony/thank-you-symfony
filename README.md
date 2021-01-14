@@ -20,6 +20,7 @@ Signed,
 * Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
 * Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 * Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
+* Ezekiel Motlana ([@mosekwa](https://github.com/mosekwa)), Software Developer, South Africa
 * Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 * Vyacheslav Startsev ([@vyacheslav-startsev](https://github.com/vyacheslav-startsev)), Backend Developer from Siberia ❆, Russia 🇷🇺
 
