@@ -17,6 +17,7 @@ Signed,
 * Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 * Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
 * PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
+* Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 * Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
 * Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 * Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
