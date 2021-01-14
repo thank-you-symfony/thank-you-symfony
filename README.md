@@ -23,6 +23,7 @@ Signed,
 * Ezekiel Motlana ([@mosekwa](https://github.com/mosekwa)), Software Developer, South Africa
 * Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 * Vyacheslav Startsev ([@vyacheslav-startsev](https://github.com/vyacheslav-startsev)), Backend Developer from Siberia ❆, Russia 🇷🇺
+* Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
