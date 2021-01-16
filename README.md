@@ -24,6 +24,7 @@ Signed,
 * Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 * Vyacheslav Startsev ([@vyacheslav-startsev](https://github.com/vyacheslav-startsev)), Backend Developer from Siberia ❆, Russia 🇷🇺
 * Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
+* Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
