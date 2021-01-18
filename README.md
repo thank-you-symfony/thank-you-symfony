@@ -18,6 +18,7 @@ Signed,
 * Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
 * PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 * Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
+* Dmitry Koshelenko ([@GomelHawk](https://github.com/GomelHawk)), PHP / Symfony Developer, Belarus
 * Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 * Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 * Ezekiel Motlana ([@mosekwa](https://github.com/mosekwa)), Software Developer, South Africa
