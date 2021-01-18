@@ -27,6 +27,7 @@ Signed,
 * Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
 * Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🇷🇺
 * Andre Smith ([@smithandre](https://github.com/smithandre)), PHP Developer, South Africa 🇿🇦
+* Dmitry Koshelenko ([@GomelHawk](https://github.com/GomelHawk)), PHP / Symfony Developer, Belarus
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
