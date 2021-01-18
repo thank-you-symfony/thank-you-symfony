@@ -25,6 +25,7 @@ Signed,
 * Vyacheslav Startsev ([@vyacheslav-startsev](https://github.com/vyacheslav-startsev)), Backend Developer from Siberia ❆, Russia 🇷🇺
 * Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 * Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
+* Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🇷🇺
 * Andre Smith ([@smithandre](https://github.com/smithandre)), PHP Developer, South Africa 🇿🇦
 
 Inspired by the
