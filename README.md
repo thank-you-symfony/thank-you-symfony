@@ -29,6 +29,7 @@ Signed,
 * Andre Smith ([@smithandre](https://github.com/smithandre)), PHP Developer, South Africa 🇿🇦
 * Dmitry Koshelenko ([@GomelHawk](https://github.com/GomelHawk)), PHP / Symfony Developer, Belarus
 * Anatoly Chesneyshy ([@Pronik2009](https://github.com/Pronik2009)), Backend Developer, PHP & Symfony Lover, Ukraine
+* Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
