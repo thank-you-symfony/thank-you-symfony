@@ -33,6 +33,7 @@ Signed,
 * Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 * Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
 * Adil Moughal ([@mohammed-adil-moughal](https://mohammed-adil-moughal)), Backend Developer, Kenya
+* Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
