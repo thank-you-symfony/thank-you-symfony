@@ -35,6 +35,7 @@ Signed,
 * Adil Moughal ([@mohammed-adil-moughal](https://mohammed-adil-moughal)), Backend Developer, Kenya
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 * Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, php lover. Bangladesh 
+* Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full Stack Developer. Indonesia 
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
