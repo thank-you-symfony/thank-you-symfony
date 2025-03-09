@@ -36,7 +36,7 @@ Signed,
 * Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 * Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, php lover. Bangladesh
 * Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full Stack Developer. Indonesia
-* Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
+* Jordi Bassagana ([@jbassagana](https://github.com/jbassagana)), Web Developer, Spain
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
